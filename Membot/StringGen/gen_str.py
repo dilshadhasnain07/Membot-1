@@ -1,7 +1,7 @@
 import asyncio
 import os
 
-from pyrogram import Client
+
 from ..clear_screen import clean
 
 
