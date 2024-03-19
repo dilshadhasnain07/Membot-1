@@ -1,4 +1,7 @@
 pyrogram
+
 colorama
+
 loguru
+
 requests
