@@ -52,8 +52,8 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/AbhiModszYT/TelegramMassReport
-cd TelegramMassReport
+git clone https://github.com/dilshadhasnain07/Membot
+cd Membot
 python main.py
 ```
 ### this 
